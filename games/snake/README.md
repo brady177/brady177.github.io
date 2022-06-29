@@ -12,7 +12,7 @@ Snake is a simple game on web that is like the game Snake
 * chrome
 * opera
 * safira
-* ie6+ (Brady177:Now it's ie8+.) 
+* ie6+ 
 
 ## Demo
 
